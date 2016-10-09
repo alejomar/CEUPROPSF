@@ -64,8 +64,7 @@
 	<!-- Section: master -->
     <section id="contact" class="home-section text-center">
 		<div class="heading-contact">
-			
-
+		aqui pongan codigo...
 		</div>
 	</section>
 	<!-- /Section: master -->
